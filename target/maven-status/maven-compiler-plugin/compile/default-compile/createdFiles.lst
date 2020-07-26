@@ -1,0 +1,14 @@
+com\example\springboot\dao\enity\Owner.class
+com\example\springboot\AppErrorController.class
+com\example\springboot\dao\enity\Doctor.class
+com\example\springboot\ActuatorSecurity.class
+com\example\springboot\dao\enity\Pet.class
+com\example\springboot\Controller.class
+com\example\springboot\mainApplication.class
+com\example\springboot\dao\enity\Clinic.class
+com\example\springboot\dao\enity\Visit.class
+com\example\springboot\dao\PetDao.class
+com\example\springboot\dao\OwnerDao.class
+com\example\springboot\dao\ClinicDao.class
+com\example\springboot\dao\DoctorDao.class
+com\example\springboot\InvalidParameterException.class

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7da06675-199b-4c69-a59e-fbb171d7a10f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bxJHlcMcARYhuOdqG1qhI86j21" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="employee.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Reham Aboelyazied\Documents\NetBeansProjects\springbootstarterparent\src\main\resources" />
+      <recent name="C:\Users\Reham Aboelyazied\Documents\NetBeansProjects\springbootstarterparent\src\main\java\account\dao" />
+      <recent name="C:\Users\Reham Aboelyazied\Documents\NetBeansProjects\springbootstarterparent\src\main\java" />
+      <recent name="C:\Users\Reham Aboelyazied\Documents\NetBeansProjects\springbootstarterparent\src\main\java\com\example\springboot" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7da06675-199b-4c69-a59e-fbb171d7a10f" name="Default Changelist" comment="" />
+      <created>1589567725577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589567725577</updated>
+      <workItem from="1589567732600" duration="9815000" />
+      <workItem from="1589657513073" duration="3081000" />
+      <workItem from="1589660956441" duration="2149000" />
+      <workItem from="1589664084883" duration="515000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Assign_Data_Sources" timestamp="1589661730325">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="361" y="71" key="#Assign_Data_Sources/0.0.1536.826@0.0.1536.826" timestamp="1589661730325" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1589632283552">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589632283552" />
+    <state x="271" y="334" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589664319088">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="241" y="294" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1589660540434" />
+    <state x="271" y="334" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.826@0.0.1536.826" timestamp="1589664319088" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589661186060">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.826@0.0.1536.826" timestamp="1589661186060" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1589660646756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589660646756" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1589660646755">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589660646755" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1589660646755">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589660646755" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1589660646756">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589660646756" />
+    <state x="65" y="73" key="new project wizard" timestamp="1589568633526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="73" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589568633526" />
+  </component>
+</project>
